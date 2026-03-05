@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# json-editor
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Simple JSON editor built with Vue 3 and Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) 18+
+- [pnpm](https://pnpm.io/) (this project is configured with pnpm)
+
+## Install
+
+From the project root:
+
+```bash
+pnpm install
+```
+
+## Start the development server
+
+```bash
+pnpm dev
+```
+
+Vite will print the local URL in the terminal (usually `http://localhost:5173`).
+
+## Other useful commands
+
+```bash
+pnpm build   # Create a production build
+pnpm preview # Preview the production build locally
+```
