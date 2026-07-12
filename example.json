@@ -1,0 +1,496 @@
+{
+  "generatedAt": "2026-07-12T10:00:00Z",
+  "dataset": "random-sample",
+  "records": [
+    {
+      "id": 10001,
+      "reference": "raven-200",
+      "name": "Raven Quartz",
+      "active": true,
+      "score": 74.3,
+      "category": "analytics",
+      "createdAt": "2026-01-17T19:01:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 3,
+        "tags": ["indigo", "vertex"]
+      }
+    },
+    {
+      "id": 10002,
+      "reference": "harbor-201",
+      "name": "Harbor Atlas",
+      "active": false,
+      "score": 23.4,
+      "category": "support",
+      "createdAt": "2026-07-12T03:32:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 2,
+        "tags": ["signal", "orbit"]
+      }
+    },
+    {
+      "id": 10003,
+      "reference": "vertex-202",
+      "name": "Vertex Cobalt",
+      "active": true,
+      "score": 53.1,
+      "category": "commerce",
+      "createdAt": "2026-05-16T21:03:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 1,
+        "tags": ["orbit", "vertex"]
+      }
+    },
+    {
+      "id": 10004,
+      "reference": "cobalt-203",
+      "name": "Cobalt Atlas",
+      "active": true,
+      "score": 77,
+      "category": "commerce",
+      "createdAt": "2026-03-15T09:36:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 3,
+        "tags": ["orbit", "quartz"]
+      }
+    },
+    {
+      "id": 10005,
+      "reference": "cobalt-204",
+      "name": "Cobalt Orbit",
+      "active": true,
+      "score": 10.2,
+      "category": "support",
+      "createdAt": "2026-07-20T00:38:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 5,
+        "tags": ["harbor", "raven"]
+      }
+    },
+    {
+      "id": 10006,
+      "reference": "atlas-205",
+      "name": "Atlas Quartz",
+      "active": false,
+      "score": 39.9,
+      "category": "support",
+      "createdAt": "2026-03-26T00:23:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 1,
+        "tags": ["vertex", "signal"]
+      }
+    },
+    {
+      "id": 10007,
+      "reference": "vertex-206",
+      "name": "Vertex Ember",
+      "active": true,
+      "score": 4.1,
+      "category": "research",
+      "createdAt": "2026-06-22T08:55:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 3,
+        "tags": ["willow", "ember"]
+      }
+    },
+    {
+      "id": 10008,
+      "reference": "cobalt-207",
+      "name": "Cobalt Meadow",
+      "active": true,
+      "score": 1.5,
+      "category": "support",
+      "createdAt": "2026-05-12T14:40:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 5,
+        "tags": ["harbor", "quartz"]
+      }
+    },
+    {
+      "id": 10009,
+      "reference": "atlas-208",
+      "name": "Atlas Quartz",
+      "active": true,
+      "score": 64.7,
+      "category": "analytics",
+      "createdAt": "2026-03-22T19:54:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 1,
+        "tags": ["orbit", "quartz"]
+      }
+    },
+    {
+      "id": 10010,
+      "reference": "orbit-209",
+      "name": "Orbit Ember",
+      "active": false,
+      "score": 6.8,
+      "category": "commerce",
+      "createdAt": "2026-06-17T04:33:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 4,
+        "tags": ["raven", "cobalt"]
+      }
+    },
+    {
+      "id": 10011,
+      "reference": "cobalt-210",
+      "name": "Cobalt Ember",
+      "active": true,
+      "score": 69.7,
+      "category": "commerce",
+      "createdAt": "2026-02-13T19:52:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 2,
+        "tags": ["indigo", "meadow"]
+      }
+    },
+    {
+      "id": 10012,
+      "reference": "quartz-211",
+      "name": "Quartz Meadow",
+      "active": false,
+      "score": 37.2,
+      "category": "analytics",
+      "createdAt": "2026-05-01T07:19:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 1,
+        "tags": ["indigo", "raven"]
+      }
+    },
+    {
+      "id": 10013,
+      "reference": "harbor-212",
+      "name": "Harbor Vertex",
+      "active": false,
+      "score": 68.1,
+      "category": "analytics",
+      "createdAt": "2026-05-13T18:11:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 3,
+        "tags": ["signal", "orbit"]
+      }
+    },
+    {
+      "id": 10014,
+      "reference": "signal-213",
+      "name": "Signal Cobalt",
+      "active": true,
+      "score": 43.7,
+      "category": "analytics",
+      "createdAt": "2026-05-22T15:09:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 1,
+        "tags": ["willow", "ember"]
+      }
+    },
+    {
+      "id": 10015,
+      "reference": "signal-214",
+      "name": "Signal Raven",
+      "active": true,
+      "score": 81.6,
+      "category": "commerce",
+      "createdAt": "2026-03-06T23:21:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 4,
+        "tags": ["harbor", "vertex"]
+      }
+    },
+    {
+      "id": 10016,
+      "reference": "quartz-215",
+      "name": "Quartz Willow",
+      "active": true,
+      "score": 41.2,
+      "category": "support",
+      "createdAt": "2026-02-10T18:59:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 1,
+        "tags": ["vertex", "quartz"]
+      }
+    },
+    {
+      "id": 10017,
+      "reference": "ember-216",
+      "name": "Ember Cobalt",
+      "active": true,
+      "score": 14.8,
+      "category": "operations",
+      "createdAt": "2026-04-11T15:50:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 4,
+        "tags": ["quartz", "signal"]
+      }
+    },
+    {
+      "id": 10018,
+      "reference": "atlas-217",
+      "name": "Atlas Quartz",
+      "active": false,
+      "score": 95.3,
+      "category": "operations",
+      "createdAt": "2026-03-18T09:12:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 2,
+        "tags": ["quartz", "raven"]
+      }
+    },
+    {
+      "id": 10019,
+      "reference": "meadow-218",
+      "name": "Meadow Atlas",
+      "active": true,
+      "score": 48.7,
+      "category": "analytics",
+      "createdAt": "2026-03-20T02:28:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 1,
+        "tags": ["vertex", "willow"]
+      }
+    },
+    {
+      "id": 10020,
+      "reference": "signal-219",
+      "name": "Signal Harbor",
+      "active": false,
+      "score": 84.1,
+      "category": "commerce",
+      "createdAt": "2026-03-16T20:18:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 1,
+        "tags": ["meadow", "quartz"]
+      }
+    },
+    {
+      "id": 10021,
+      "reference": "ember-220",
+      "name": "Ember Ember",
+      "active": false,
+      "score": 26.6,
+      "category": "operations",
+      "createdAt": "2026-03-15T23:34:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 5,
+        "tags": ["meadow", "raven"]
+      }
+    },
+    {
+      "id": 10022,
+      "reference": "signal-221",
+      "name": "Signal Raven",
+      "active": true,
+      "score": 20.9,
+      "category": "commerce",
+      "createdAt": "2026-01-06T14:59:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 1,
+        "tags": ["willow", "quartz"]
+      }
+    },
+    {
+      "id": 10023,
+      "reference": "vertex-222",
+      "name": "Vertex Quartz",
+      "active": true,
+      "score": 42.9,
+      "category": "commerce",
+      "createdAt": "2026-04-08T00:04:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 5,
+        "tags": ["willow", "meadow"]
+      }
+    },
+    {
+      "id": 10024,
+      "reference": "indigo-223",
+      "name": "Indigo Signal",
+      "active": true,
+      "score": 22.7,
+      "category": "research",
+      "createdAt": "2026-04-25T04:40:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 5,
+        "tags": ["ember", "orbit"]
+      }
+    },
+    {
+      "id": 10025,
+      "reference": "meadow-224",
+      "name": "Meadow Indigo",
+      "active": false,
+      "score": 39.4,
+      "category": "commerce",
+      "createdAt": "2026-02-17T15:26:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 2,
+        "tags": ["vertex", "indigo"]
+      }
+    },
+    {
+      "id": 10026,
+      "reference": "cobalt-225",
+      "name": "Cobalt Willow",
+      "active": true,
+      "score": 16.3,
+      "category": "research",
+      "createdAt": "2026-04-07T15:54:00Z",
+      "metadata": {
+        "region": "ap-south",
+        "priority": 5,
+        "tags": ["signal", "cobalt"]
+      }
+    },
+    {
+      "id": 10027,
+      "reference": "vertex-226",
+      "name": "Vertex Willow",
+      "active": true,
+      "score": 93.3,
+      "category": "research",
+      "createdAt": "2026-06-21T22:42:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 1,
+        "tags": ["harbor", "raven"]
+      }
+    },
+    {
+      "id": 10028,
+      "reference": "raven-227",
+      "name": "Raven Harbor",
+      "active": true,
+      "score": 49.3,
+      "category": "operations",
+      "createdAt": "2026-02-02T10:43:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 2,
+        "tags": ["orbit", "cobalt"]
+      }
+    },
+    {
+      "id": 10029,
+      "reference": "orbit-228",
+      "name": "Orbit Indigo",
+      "active": true,
+      "score": 65,
+      "category": "operations",
+      "createdAt": "2026-01-05T22:10:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 4,
+        "tags": ["vertex", "raven"]
+      }
+    },
+    {
+      "id": 10030,
+      "reference": "harbor-229",
+      "name": "Harbor Raven",
+      "active": false,
+      "score": 8.9,
+      "category": "support",
+      "createdAt": "2026-05-04T06:51:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 5,
+        "tags": ["harbor", "cobalt"]
+      }
+    },
+    {
+      "id": 10031,
+      "reference": "atlas-230",
+      "name": "Atlas Raven",
+      "active": true,
+      "score": 53,
+      "category": "research",
+      "createdAt": "2026-04-12T05:38:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 2,
+        "tags": ["indigo", "harbor"]
+      }
+    },
+    {
+      "id": 10032,
+      "reference": "indigo-231",
+      "name": "Indigo Vertex",
+      "active": false,
+      "score": 21.3,
+      "category": "operations",
+      "createdAt": "2026-01-20T05:59:00Z",
+      "metadata": {
+        "region": "us-east",
+        "priority": 1,
+        "tags": ["quartz", "atlas"]
+      }
+    },
+    {
+      "id": 10033,
+      "reference": "vertex-232",
+      "name": "Vertex Harbor",
+      "active": true,
+      "score": 3.8,
+      "category": "analytics",
+      "createdAt": "2026-07-22T21:18:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 4,
+        "tags": ["cobalt", "ember"]
+      }
+    },
+    {
+      "id": 10034,
+      "reference": "atlas-233",
+      "name": "Atlas Raven",
+      "active": true,
+      "score": 1.3,
+      "category": "operations",
+      "createdAt": "2026-04-13T07:30:00Z",
+      "metadata": {
+        "region": "eu-west",
+        "priority": 1,
+        "tags": ["atlas", "orbit"]
+      }
+    },
+    {
+      "id": 10035,
+      "reference": "indigo-234",
+      "name": "Indigo Willow",
+      "active": false,
+      "score": 27.3,
+      "category": "commerce",
+      "createdAt": "2026-05-06T15:16:00Z",
+      "metadata": {
+        "region": "sa-east",
+        "priority": 2,
+        "tags": ["atlas", "signal"]
+      }
+    }
+  ]
+}
