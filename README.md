@@ -1,6 +1,6 @@
 # json-editor
 
-Simple JSON editor built with Vue 3 and Vite.
+Simple JSON editor built with Vue 3 and Nuxt 4.
 
 ## Prerequisites
 
@@ -21,11 +21,13 @@ pnpm install
 pnpm dev
 ```
 
-Vite will print the local URL in the terminal (usually `http://localhost:5173`).
+Nuxt will print the local URL in the terminal (usually `http://localhost:8230`).
 
 ## Other useful commands
 
 ```bash
-pnpm build   # Create a production build
-pnpm preview # Preview the production build locally
+pnpm build       # Generate a static build (SSG)
+pnpm build:ssr   # Create an SSR production build
+pnpm preview     # Preview the production build locally
+```
 ```
