@@ -10,6 +10,9 @@ export default defineNuxtConfig({
 
   app: {
     head: {
+      script: [
+        { src: 'https://tools.atlesque.dev/consent.js', defer: true },
+      ],
       link: [
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       ],
